@@ -6,4 +6,4 @@ const juntos = texto1+" "+texto2 + 1;
 console.log(texto1)
 console.log(texto2)
 
-console.log(`O somatório de caracteres é ${juntos.length}.`)
+console.log(`O somatório dos caracteres das frases é ${juntos.length}.`)
